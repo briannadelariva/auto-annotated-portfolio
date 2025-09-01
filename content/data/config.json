@@ -27,10 +27,10 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "altText": "Linkedin",
+                "label": "Linkedin",
+                "url": "https://www.linkedin.com/in/briannadelariva",
+                "icon": "linkedin"
             },
             {
                 "type": "Social",

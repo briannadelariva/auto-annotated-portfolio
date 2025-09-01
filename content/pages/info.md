@@ -108,7 +108,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/briannadelariva'
         styles:
           self:
             textAlign: left
@@ -124,7 +124,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/in/briannadelariva'
         styles:
           self:
             textAlign: left

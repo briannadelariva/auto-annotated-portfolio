@@ -58,7 +58,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "url": "mailto:brianna@highlinellc.net",
                 "altText": ""
             },
             {
@@ -77,9 +77,9 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "480-825-8993",
             "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
+            "email": "brianna@highlinellc.net",
             "emailAltText": "My email",
             "address": "312 Lovely Street, Brooklyn, NY, 123456",
             "addressAltText": "My address"

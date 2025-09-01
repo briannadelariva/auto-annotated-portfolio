@@ -216,7 +216,7 @@
                         "actions": [],
                         "media": {
                             "type": "ImageBlock",
-                            "url": "/images/about.jpg",
+                            "url": "/images/MeAndPrima.jpg",
                             "altText": "Hero image"
                         },
                         "backgroundSize": "full",

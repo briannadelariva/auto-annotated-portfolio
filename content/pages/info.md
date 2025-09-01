@@ -14,10 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      # Hi, I’m Brianna De La Riva, a developer and M.S. in Artificial Intelligence student with a B.S. in Computer Science. My background includes IT support, software quality assurance, and applied AI coursework, which have given me a strong foundation in problem-solving, debugging, and building reliable solutions. While I’m continuing to expand my coding portfolio, I also bring strengths in project coordination, adaptability, and working across teams to turn ideas into results. I’m especially motivated to grow as a developer while contributing to projects that merge technology, AI, and practical business impact.
 
     media:
       type: ImageBlock
@@ -211,7 +208,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [brianna@highlinellc.net](mailto:brianna@highlinellc.net)
   - type: DividerSection
     styles:
       self:
@@ -229,42 +226,55 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: |-
-          **Current**
+          **2024-Current**
 
-          * freelance @freelance.me
+          * Generative AI Engineer Intern, Reality AI Lab
+          
+          **2024-2025**
 
-          **2018-2021**
+          * Software QA Analyst Intern, Oigetit.AI
 
-          * fullstack at this startup
+          **2024-2025**
 
-          **2015**
+          * Client Services Technical Support Representative, Availity
 
-          * senior front-end at this place
+          **2022-2024**
 
-          **2013**
+          * K-12 Substitute Teacher, Frontline Educator
 
-          * intern developer at a big company
+          **2022-2023**
 
-          **2011**
+          * Customer Service Associate, Walgreens
 
-          * flipping burgers
+          **2016-2019**
+
+          * Private Tutor Highschool-College level
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
         text: |-
-          **2015-2018**
+          **2025-2026**
 
-          * ba computer sciense at a semi fancy school
+          * MS in Artificial Intelligence, University of the Cumberlands
+          
+          **2023-2024**
 
-          **2014**
+          * BS in Computer Science, Southern New Hampshire University
+          * Junior Software Programmer Certificate, Arizona State University
+          
+          **2021**
 
-          * react certificate somewhere
+          * Diversity, Equity, and Inclusion in the Workplace, University of South Florida
 
-          **2011**
+          **2020**
 
-          * my highschool
+          * Associate of Arts, Paradise Valley Community College
+
+          **2019**
+
+          * Deer Valley High School
         styles:
           self:
             textAlign: left
